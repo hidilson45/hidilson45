@@ -13,7 +13,7 @@ export default function Hero(){
             <div className="grid grid-cols-1 lg:grid-cols-12 lg:gap-x-[100px] sm:gap-x-[100px]">
                 <div className="col-span-7 place-self-center text-center sm:text-left">
                     <h1 className="text-white mb-4 text-4xl lg:text-6xl font-extrabold">
-                        <span className='text-transparent bg-clip-text bg-gradient-to-r from-[#0b56bd] via-[#e9c715] to-[#00ceff] '>Hello, Im {''}</span>
+                        <span className='text-transparent bg-clip-text bg-gradient-to-r from-[#0b56bd] via-[#e9c715] to-[#00ceff] '>Hello, Im </span>
                     <TypeAnimation
                         sequence={[
                             
