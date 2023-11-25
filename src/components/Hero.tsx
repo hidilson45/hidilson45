@@ -32,10 +32,7 @@ export default function Hero(){
                     />
                     </h1>
                     <p className="text-[#ADB7BE] mb-6 text-base sm:text-lg lg:text-xl">
-                        Η δημιουργία ενός ζευγαριού γυαλιών ηλίου είναι 
-                        συνδιασμός μοντέρνας αισθητικής και προϊοντικού 
-                        σχεδιασμού. Το μοντέρνο design και η πρωτοποριακή 
-                        τεχνολογία είναι βασικά στοιχεία που κρύβονται πίσω
+                    O Chelsea Football Club é um dos maiores clubes de futebol da Inglaterra, sediado na cidade de Londres, fundado em 10 de março de 1905. Internacionalmente, é um dos três clubes mais vitoriosos do futebol inglês, ao lado do Liverpool e Manchester United
                     </p>
                     <div>
                         <button className='px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-[#0b56bd] via-[#e9c715] to-[#00ceff] hover:bg-slate-200 text-black font-semibold'>
