@@ -32,10 +32,7 @@ export default function Hero(){
                     />
                     </h1>
                     <p className="text-[#ADB7BE] mb-6 text-base sm:text-lg lg:text-xl">
-                        Η δημιουργία ενός ζευγαριού γυαλιών ηλίου είναι 
-                        συνδιασμός μοντέρνας αισθητικής και προϊοντικού 
-                        σχεδιασμού. Το μοντέρνο design και η πρωτοποριακή 
-                        τεχνολογία είναι βασικά στοιχεία που κρύβονται πίσω
+                    I believe that the back-end is the heart of any application, and I strive to build robust and scalable systems. My goal is to create seamless experiences for users, and I take pride in writing clean, maintainable code.
                     </p>
                     <div>
                         <button className='px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-[#0b56bd] via-[#e9c715] to-[#00ceff] hover:bg-slate-200 text-black font-semibold'>
